@@ -1,1 +1,1 @@
-<h1 Documentação disponível do sistema vip </h1>
+# 📁 Documentação disponível do [Sistema VIP](https://github.com/HyperScripts/Exports-System-Vip/wiki/Sistema-VIP)
